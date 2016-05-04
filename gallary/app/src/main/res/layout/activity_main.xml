@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="ㅇㅇㅇㅇㅇ"
+        android:text="아아아아아아"
         android:textSize="20px"/>
 
 </LinearLayout>
