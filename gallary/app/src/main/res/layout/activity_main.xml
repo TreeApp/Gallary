@@ -6,8 +6,10 @@
     android:orientation="vertical"
     tools:context="com.treeapps.gallary.MainActivity">
 
-    <ImageView
+    <TextView
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content"
+        android:text="ㅇㅇㅇㅇㅇ"
+        android:textSize="20px"/>
 
 </LinearLayout>
